@@ -1,0 +1,10 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[remote "origin"]
+	url = https://RafaSierra@github.com/RafaSierra/distanciadaw2324.git
+	url = https://RafaSierra@github.com/RafaSierra/distanciadaw2324
+	fetch = +refs/heads/*:refs/remotes/origin/*
